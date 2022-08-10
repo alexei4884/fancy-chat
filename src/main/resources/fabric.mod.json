@@ -2,15 +2,15 @@
   "schemaVersion": 1,
   "id": "symbol-chat",
   "version": "${version}",
-  "name": "Symbol Chat",
-  "description": "A client side mod that adds a symbol/emoji menu as well as writing in different unicode fonts.",
+  "name": "Fancy Chat",
+  "description": "A client side mod that adds a emoji menu for 48emote84.",
   "authors": [
-    "replaceitem"
+    "alexei4884"
   ],
   "contact": {
-    "homepage": "https://modrinth.com/mod/symbol-chat",
-    "issues": "https://github.com/replaceitem/symbol-chat/issues",
-    "sources": "https://github.com/replaceitem/symbol-chat"
+    "homepage": "https://github.com/alexei4884/symbol-chat",
+    "issues": "https://github.com/alexei4884/symbol-chat/issues",
+    "sources": "https://github.com/alexei4884/symbol-chat/"
   },
   "license": "MIT",
   "icon": "assets/symbol-chat/icon.png",

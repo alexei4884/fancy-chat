@@ -8,13 +8,13 @@
   "symbolchat.no_custom_symbols": "Пользовательских символов не обнаружено. Вы можете добавить их в настройках мода в ModMenu, доступных через ClothConfig.",
   "symbolchat.no_clothconfig": "Установите ClothConfig для добавления символов.",
   
-  "symbolchat.tab.people_nature": "Природа и люди",
+  "symbolchat.tab.emoji": "Смайлики и животные",
+  "symbolchat.tab.people": "Люди и жесты",
   "symbolchat.tab.objects": "Предметы",
-  "symbolchat.tab.arrows_hands": "Стрелки и жесты",
+  "symbolchat.tab.food": "Еда и растения",
+  "symbolchat.tab.travel": "Транспорт и места",
   "symbolchat.tab.symbols": "Символы",
-  "symbolchat.tab.shapes": "Фигуры",
-  "symbolchat.tab.lines_blocks": "Линии и блоки",
-  "symbolchat.tab.numbers": "Числа",
+  "symbolchat.tab.other": "Другое",
   "symbolchat.tab.custom": "Пользовательские",
   
   "symbolchat.font.normal": "Обычные",
